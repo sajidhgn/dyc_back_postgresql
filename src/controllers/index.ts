@@ -1,0 +1,13 @@
+export const userController = require('./user.Controller');
+export const homeController = require('./home.Controller');
+export const servicesController = require('./services.Controller');
+export const aboutController = require('./about.Controller');
+export const industryController = require('./industry.Controller');
+export const contactController = require('./contact.Controller');
+export const careerController = require('./career.Controller');
+export const portfolioController = require('./portfolio.Controller');
+export const blogController = require('./blog.Controller');
+export const pricingController = require('./pricing.Controller');
+export const dedicatedController = require('./dedicated.Controller');
+export const blockchainController = require('./blockchain.Controller');
+export const gameController = require('./game.Controller');
